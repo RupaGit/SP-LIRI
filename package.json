@@ -1,0 +1,26 @@
+{
+  "name": "SP-LIRI",
+  "version": "1.0.0",
+  "description": "Building LIRI using spotify npm and axios npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RupaGit/SP-LIRI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RupaGit/SP-LIRI/issues"
+  },
+  "homepage": "https://github.com/RupaGit/SP-LIRI#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
