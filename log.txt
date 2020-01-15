@@ -1,0 +1,931 @@
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spotify-this-song,hips,dont,lie
+
+Printing the song Details
+=============================================================
+
+The album name is: Oral Fixation, Vol. 2 (Expanded Edition)
+The album was released on: 2005-11-28
+The album was released on: 2005-11-28
+The artists are: Shakira  Wyclef Jean  
+The name of the song is: Hips Don't Lie (feat. Wyclef Jean)
+This song can be played using the link: https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spotify-this-song,smells,like,teen,spirit
+
+Printing the song Details
+=============================================================
+
+The album name is: Nevermind (Remastered)
+The album was released on: 1991-09-26
+The album was released on: 1991-09-26
+The artists are: Nirvana  
+The name of the song is: Smells Like Teen Spirit
+This song can be played using the link: https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this,300
+
+Printing the Movie Details
+=============================================================
+The Movie name is: 300
+This movie was released on: 09 Mar 2007
+IMDB rating of this moview is: 7.7
+Rotten Tomatoes Ratings:60%
+This movie was produced in: USA, Canada, Bulgaria
+This language of the movie is: English
+This plot of the movie is: 
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,concert-this,maroon5
+
+Printing the Concert Details: 01
+=============================================================
+The concert date and time is: 02/01/2020
+The venue for this concert is: American Airlines Arena
+The venue is located at: Miami, FL
+
+Printing the Concert Details: 11
+=============================================================
+The concert date and time is: 02/23/2020
+The venue for this concert is: Foro Sol
+The venue is located at: Mexico, 
+
+Printing the Concert Details: 21
+=============================================================
+The concert date and time is: 02/24/2020
+The venue for this concert is: Foro Sol
+The venue is located at: Mexico, 
+
+Printing the Concert Details: 31
+=============================================================
+The concert date and time is: 02/27/2020
+The venue for this concert is: Festival Vina Del Mar
+The venue is located at: Viña Del Mar, 
+
+Printing the Concert Details: 41
+=============================================================
+The concert date and time is: 02/28/2020
+The venue for this concert is: Estadio Bicentenario La Florida
+The venue is located at: Santiago, 
+
+Printing the Concert Details: 51
+=============================================================
+The concert date and time is: 03/01/2020
+The venue for this concert is: Allianz Parque
+The venue is located at: Sao Paulo, 
+
+Printing the Concert Details: 61
+=============================================================
+The concert date and time is: 03/03/2020
+The venue for this concert is: Mané Garrincha Stadium
+The venue is located at: Brasilia, 
+
+Printing the Concert Details: 71
+=============================================================
+The concert date and time is: 03/05/2020
+The venue for this concert is: Esplanada Do Classic Hall
+The venue is located at: Recife, 
+
+Printing the Concert Details: 81
+=============================================================
+The concert date and time is: 03/07/2020
+The venue for this concert is: Area Externa Da Jeunesse Arena
+The venue is located at: Rio De Janeiro, 
+
+Printing the Concert Details: 91
+=============================================================
+The concert date and time is: 03/10/2020
+The venue for this concert is: Estadio Centenario
+The venue is located at: Montevideo, 
+
+Printing the Concert Details: 111
+=============================================================
+The concert date and time is: 03/14/2020
+The venue for this concert is: Parque Salitre Magico
+The venue is located at: Bogotá, 
+
+Printing the Concert Details: 101
+=============================================================
+The concert date and time is: 03/12/2020
+The venue for this concert is: Campo Argentino De Polo
+The venue is located at: Buenos Aires, 
+
+Printing the Concert Details: 121
+=============================================================
+The concert date and time is: 05/30/2020
+The venue for this concert is: North Island Credit Union Amphitheatre
+The venue is located at: Chula Vista, CA
+
+Printing the Concert Details: 131
+=============================================================
+The concert date and time is: 05/31/2020
+The venue for this concert is: AK Chin Pavilion
+The venue is located at: Phoenix, AZ
+
+Printing the Concert Details: 141
+=============================================================
+The concert date and time is: 06/03/2020
+The venue for this concert is: Isleta Amphitheater
+The venue is located at: Albuquerque, NM
+
+Printing the Concert Details: 151
+=============================================================
+The concert date and time is: 06/05/2020
+The venue for this concert is: Pepsi Center
+The venue is located at: Denver, CO
+
+Printing the Concert Details: 161
+=============================================================
+The concert date and time is: 06/07/2020
+The venue for this concert is: Austin360 Amphitheater
+The venue is located at: Austin, TX
+
+Printing the Concert Details: 171
+=============================================================
+The concert date and time is: 06/08/2020
+The venue for this concert is: Cynthia Woods Mitchell Pavilion presented by Huntsman
+The venue is located at: The Woodlands, TX
+
+Printing the Concert Details: 181
+=============================================================
+The concert date and time is: 06/10/2020
+The venue for this concert is: Dos Equis Pavilion
+The venue is located at: Dallas, TX
+
+Printing the Concert Details: 191
+=============================================================
+The concert date and time is: 06/13/2020
+The venue for this concert is: Wrigley Field
+The venue is located at: Chicago, IL
+
+Printing the Concert Details: 201
+=============================================================
+The concert date and time is: 06/14/2020
+The venue for this concert is: Ruoff Home Mortgage Music Center
+The venue is located at: Noblesville, IN
+
+Printing the Concert Details: 211
+=============================================================
+The concert date and time is: 06/16/2020
+The venue for this concert is: DTE Energy Music Theatre
+The venue is located at: Clarkston, MI
+
+Printing the Concert Details: 221
+=============================================================
+The concert date and time is: 06/18/2020
+The venue for this concert is: Blossom Music Center
+The venue is located at: Cuyahoga Falls, OH
+
+Printing the Concert Details: 231
+=============================================================
+The concert date and time is: 06/19/2020
+The venue for this concert is: KeyBank Pavilion
+The venue is located at: Burgettstown, PA
+
+Printing the Concert Details: 241
+=============================================================
+The concert date and time is: 06/24/2020
+The venue for this concert is: Fenway Park
+The venue is located at: Boston, MA
+
+Printing the Concert Details: 251
+=============================================================
+The concert date and time is: 06/25/2020
+The venue for this concert is: Citi Field
+The venue is located at: Flushing, NY
+
+Printing the Concert Details: 261
+=============================================================
+The concert date and time is: 06/27/2020
+The venue for this concert is: Darien Lake Amphitheater 
+The venue is located at: Darien Center, NY
+
+Printing the Concert Details: 271
+=============================================================
+The concert date and time is: 06/28/2020
+The venue for this concert is: Budweiser Stage
+The venue is located at: Toronto, 
+
+Printing the Concert Details: 281
+=============================================================
+The concert date and time is: 08/02/2020
+The venue for this concert is: Simmons Bank Arena 
+The venue is located at: North Little Rock, AR
+
+Printing the Concert Details: 291
+=============================================================
+The concert date and time is: 08/04/2020
+The venue for this concert is: Chesapeake Energy Arena
+The venue is located at: Oklahoma City, OK
+
+Printing the Concert Details: 301
+=============================================================
+The concert date and time is: 08/06/2020
+The venue for this concert is: Pinnacle Bank Arena
+The venue is located at: Lincoln, NE
+
+Printing the Concert Details: 311
+=============================================================
+The concert date and time is: 08/08/2020
+The venue for this concert is: Fargodome
+The venue is located at: Fargo, ND
+
+Printing the Concert Details: 321
+=============================================================
+The concert date and time is: 08/09/2020
+The venue for this concert is: Xcel Energy Center
+The venue is located at: St Paul, MN
+
+Printing the Concert Details: 331
+=============================================================
+The concert date and time is: 08/12/2020
+The venue for this concert is: Rogers Place
+The venue is located at: Edmonton, 
+
+Printing the Concert Details: 341
+=============================================================
+The concert date and time is: 08/14/2020
+The venue for this concert is: Pepsi Live at Rogers Arena 
+The venue is located at: Vancouver, 
+
+Printing the Concert Details: 351
+=============================================================
+The concert date and time is: 08/15/2020
+The venue for this concert is: White River Amphitheatre
+The venue is located at: Auburn, WA
+
+Printing the Concert Details: 361
+=============================================================
+The concert date and time is: 08/17/2020
+The venue for this concert is: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+The venue is located at: Portland, OR
+
+Printing the Concert Details: 371
+=============================================================
+The concert date and time is: 08/19/2020
+The venue for this concert is: Shoreline Amphitheatre and Grounds 
+The venue is located at: Mountain View, CA
+
+Printing the Concert Details: 381
+=============================================================
+The concert date and time is: 08/21/2020
+The venue for this concert is: Los Angeles Football Club/Banc of California Stadium 
+The venue is located at: Los Angeles, CA
+
+Printing the Concert Details: 391
+=============================================================
+The concert date and time is: 08/24/2020
+The venue for this concert is: USANA Amphitheatre 
+The venue is located at: Salt Lake City, UT
+
+Printing the Concert Details: 401
+=============================================================
+The concert date and time is: 08/27/2020
+The venue for this concert is: Sprint Center
+The venue is located at: Kansas City, KS
+
+Printing the Concert Details: 411
+=============================================================
+The concert date and time is: 08/29/2020
+The venue for this concert is: Hollywood Casino Amphitheatre - St. Louis
+The venue is located at: Maryland Heights, MO
+
+Printing the Concert Details: 421
+=============================================================
+The concert date and time is: 08/30/2020
+The venue for this concert is: American Family Insurance Amphitheater
+The venue is located at: Milwaukee, WI
+
+Printing the Concert Details: 431
+=============================================================
+The concert date and time is: 09/01/2020
+The venue for this concert is: Riverbend Music Center
+The venue is located at: Cincinnati, OH
+
+Printing the Concert Details: 441
+=============================================================
+The concert date and time is: 09/03/2020
+The venue for this concert is: BB&T Pavilion
+The venue is located at: Camden, NJ
+
+Printing the Concert Details: 451
+=============================================================
+The concert date and time is: 09/05/2020
+The venue for this concert is: Hershey Park Pavilion/Stadium 
+The venue is located at: Hershey, PA
+
+Printing the Concert Details: 461
+=============================================================
+The concert date and time is: 09/06/2020
+The venue for this concert is: Saratoga Performing Arts Center
+The venue is located at: Saratoga Springs, NY
+
+Printing the Concert Details: 471
+=============================================================
+The concert date and time is: 09/09/2020
+The venue for this concert is: Xfinity Theatre
+The venue is located at: Hartford, CT
+
+Printing the Concert Details: 481
+=============================================================
+The concert date and time is: 09/11/2020
+The venue for this concert is: Jiffy Lube Live
+The venue is located at: Bristow, VA
+
+Printing the Concert Details: 491
+=============================================================
+The concert date and time is: 09/12/2020
+The venue for this concert is: Coastal Credit Union Music Park @ Walnut Creek Amphitheatre
+The venue is located at: Raleigh, NC
+
+Printing the Concert Details: 501
+=============================================================
+The concert date and time is: 09/14/2020
+The venue for this concert is: PNC Music Pavilion
+The venue is located at: Charlotte, NC
+
+Printing the Concert Details: 511
+=============================================================
+The concert date and time is: 09/16/2020
+The venue for this concert is: Coral Sky Amphitheatre
+The venue is located at: West Palm Beach, FL
+
+Printing the Concert Details: 521
+=============================================================
+The concert date and time is: 09/17/2020
+The venue for this concert is: MIDFLORIDA Credit Union Amphitheatre
+The venue is located at: Tampa, FL
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spotify-this-song
+
+Printing the song Details
+=============================================================
+
+The album name is: Oral Fixation, Vol. 2 (Expanded Edition)
+The album was released on: 2005-11-28
+The album was released on: 2005-11-28
+The artists are: Shakira  Wyclef Jean  
+The name of the song is: Hips Don't Lie (feat. Wyclef Jean)
+This song can be played using the link: https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this
+
+Printing the Movie Details
+=============================================================
+The Movie name is: 300
+This movie was released on: 09 Mar 2007
+IMDB rating of this moview is: 7.7
+Rotten Tomatoes Ratings:60%
+This movie was produced in: USA, Canada, Bulgaria
+This language of the movie is: English
+This plot of the movie is: 
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,concert-this
+
+Printing the Concert Details: 01
+=============================================================
+The concert date and time is: 02/22/2020
+The venue for this concert is: Chase Center
+The venue is located at: San Francisco, CA
+
+Printing the Concert Details: 11
+=============================================================
+The concert date and time is: 02/29/2020
+The venue for this concert is: The Forum
+The venue is located at: Los Angeles, CA
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,do-what-it-says
+
+Printing the song Details
+=============================================================
+
+The album name is: The Hits--Chapter One
+The album was released on: 2001-10-23
+The album was released on: 2001-10-23
+The artists are: Backstreet Boys  
+The name of the song is: I Want It That Way
+This song can be played using the link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,do-what-it-says
+
+Printing the Movie Details
+=============================================================
+The Movie name is: The Incredibles
+This movie was released on: 05 Nov 2004
+IMDB rating of this moview is: 8.0
+Rotten Tomatoes Ratings:
+This movie was produced in: USA
+This language of the movie is: English, French
+This plot of the movie is: 
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spotify-this-song
+
+Printing the song Details
+=============================================================
+
+The album name is: Oral Fixation, Vol. 2 (Expanded Edition)
+The album was released on: 2005-11-28
+The album was released on: 2005-11-28
+The artists are: Shakira  Wyclef Jean  
+The name of the song is: Hips Don't Lie (feat. Wyclef Jean)
+This song can be played using the link: https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spoitify-this-song,feeling,alive
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spotify-this-song,feeling,alive
+
+Printing the song Details
+=============================================================
+
+The album name is: Alive And Feeling Fine
+The album was released on: 2019-10-04
+The album was released on: 2019-10-04
+The artists are: Lost Frequencies  Love Harder  
+The name of the song is: Beat Of My Heart
+This song can be played using the link: https://open.spotify.com/track/4w5Grfxx5Rpup6mo5v6bW0
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spotify-this-song,feeling,alive
+
+Printing the song Details
+=============================================================
+
+The album name is: Alive And Feeling Fine
+The album was released on: 2019-10-04
+The album was released on: 2019-10-04
+The artists are: Lost Frequencies  Love Harder  
+The name of the song is: Beat Of My Heart
+This song can be played using the link: https://open.spotify.com/track/4w5Grfxx5Rpup6mo5v6bW0
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spotify-this-song,cake,by,the,ocean
+
+Printing the song Details
+=============================================================
+
+The album name is: DNCE
+The album was released on: 2016-11-18
+The album was released on: 2016-11-18
+The artists are: DNCE  
+The name of the song is: Cake By The Ocean
+This song can be played using the link: https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spotify-this-song
+
+Printing the song Details
+=============================================================
+
+The album name is: Oral Fixation, Vol. 2 (Expanded Edition)
+The album was released on: 2005-11-28
+The album was released on: 2005-11-28
+The artists are: Shakira  Wyclef Jean  
+The name of the song is: Hips Don't Lie (feat. Wyclef Jean)
+This song can be played using the link: https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this,The,irish,man
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this,The,irish
+
+Printing the Movie Details
+=============================================================
+The Movie name is: The Luck of the Irish
+This movie was released on: 09 Mar 2001
+IMDB rating of this moview is: 6.2
+Rotten Tomatoes Ratings:
+This movie was produced in: USA
+This language of the movie is: English
+This plot of the movie is: 
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this,The,irish,men
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this,god,father
+
+Printing the Movie Details
+=============================================================
+The Movie name is: Father and God Father
+This movie was released on: 27 Feb 1913
+IMDB rating of this moview is: N/A
+Rotten Tomatoes Ratings:
+This movie was produced in: France
+This language of the movie is: French
+This plot of the movie is: 
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this,godfather
+
+Printing the Movie Details
+=============================================================
+The Movie name is: Godfather
+This movie was released on: 15 Nov 1991
+IMDB rating of this moview is: 8.6
+Rotten Tomatoes Ratings:
+This movie was produced in: India
+This language of the movie is: Malayalam
+This plot of the movie is: 
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this,the,godfather
+
+Printing the Movie Details
+=============================================================
+The Movie name is: The Godfather
+This movie was released on: 24 Mar 1972
+IMDB rating of this moview is: 9.2
+Rotten Tomatoes Ratings:98%
+This movie was produced in: USA
+This language of the movie is: English, Italian, Latin
+This plot of the movie is: 
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this
+
+Printing the Movie Details
+=============================================================
+The Movie name is: 300
+This movie was released on: 09 Mar 2007
+IMDB rating of this moview is: 7.7
+Rotten Tomatoes Ratings:60%
+This movie was produced in: USA, Canada, Bulgaria
+This language of the movie is: English
+This plot of the movie is: 
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,concert-this,maroon5
+
+Printing the Concert Details: 01
+=============================================================
+The concert date and time is: 02/01/2020
+The venue for this concert is: American Airlines Arena
+The venue is located at: Miami, FL
+
+Printing the Concert Details: 11
+=============================================================
+The concert date and time is: 02/23/2020
+The venue for this concert is: Foro Sol
+The venue is located at: Mexico, 
+
+Printing the Concert Details: 21
+=============================================================
+The concert date and time is: 02/24/2020
+The venue for this concert is: Foro Sol
+The venue is located at: Mexico, 
+
+Printing the Concert Details: 31
+=============================================================
+The concert date and time is: 02/27/2020
+The venue for this concert is: Festival Vina Del Mar
+The venue is located at: Viña Del Mar, 
+
+Printing the Concert Details: 41
+=============================================================
+The concert date and time is: 02/28/2020
+The venue for this concert is: Estadio Bicentenario La Florida
+The venue is located at: Santiago, 
+
+Printing the Concert Details: 51
+=============================================================
+The concert date and time is: 03/01/2020
+The venue for this concert is: Allianz Parque
+The venue is located at: Sao Paulo, 
+
+Printing the Concert Details: 61
+=============================================================
+The concert date and time is: 03/03/2020
+The venue for this concert is: Mané Garrincha Stadium
+The venue is located at: Brasilia, 
+
+Printing the Concert Details: 71
+=============================================================
+The concert date and time is: 03/05/2020
+The venue for this concert is: Esplanada Do Classic Hall
+The venue is located at: Recife, 
+
+Printing the Concert Details: 81
+=============================================================
+The concert date and time is: 03/07/2020
+The venue for this concert is: Area Externa Da Jeunesse Arena
+The venue is located at: Rio De Janeiro, 
+
+Printing the Concert Details: 91
+=============================================================
+The concert date and time is: 03/10/2020
+The venue for this concert is: Estadio Centenario
+The venue is located at: Montevideo, 
+
+Printing the Concert Details: 101
+=============================================================
+The concert date and time is: 03/12/2020
+The venue for this concert is: Campo Argentino De Polo
+The venue is located at: Buenos Aires, 
+
+Printing the Concert Details: 111
+=============================================================
+The concert date and time is: 03/14/2020
+The venue for this concert is: Parque Salitre Magico
+The venue is located at: Bogotá, 
+
+Printing the Concert Details: 121
+=============================================================
+The concert date and time is: 05/30/2020
+The venue for this concert is: North Island Credit Union Amphitheatre
+The venue is located at: Chula Vista, CA
+
+Printing the Concert Details: 131
+=============================================================
+The concert date and time is: 05/31/2020
+The venue for this concert is: AK Chin Pavilion
+The venue is located at: Phoenix, AZ
+
+Printing the Concert Details: 141
+=============================================================
+The concert date and time is: 06/03/2020
+The venue for this concert is: Isleta Amphitheater
+The venue is located at: Albuquerque, NM
+
+Printing the Concert Details: 151
+=============================================================
+The concert date and time is: 06/05/2020
+The venue for this concert is: Pepsi Center
+The venue is located at: Denver, CO
+
+Printing the Concert Details: 161
+=============================================================
+The concert date and time is: 06/07/2020
+The venue for this concert is: Austin360 Amphitheater
+The venue is located at: Austin, TX
+
+Printing the Concert Details: 171
+=============================================================
+The concert date and time is: 06/08/2020
+The venue for this concert is: Cynthia Woods Mitchell Pavilion presented by Huntsman
+The venue is located at: The Woodlands, TX
+
+Printing the Concert Details: 181
+=============================================================
+The concert date and time is: 06/10/2020
+The venue for this concert is: Dos Equis Pavilion
+The venue is located at: Dallas, TX
+
+Printing the Concert Details: 191
+=============================================================
+The concert date and time is: 06/13/2020
+The venue for this concert is: Wrigley Field
+The venue is located at: Chicago, IL
+
+Printing the Concert Details: 201
+=============================================================
+The concert date and time is: 06/14/2020
+The venue for this concert is: Ruoff Home Mortgage Music Center
+The venue is located at: Noblesville, IN
+
+Printing the Concert Details: 211
+=============================================================
+The concert date and time is: 06/16/2020
+The venue for this concert is: DTE Energy Music Theatre
+The venue is located at: Clarkston, MI
+
+Printing the Concert Details: 221
+=============================================================
+The concert date and time is: 06/18/2020
+The venue for this concert is: Blossom Music Center
+The venue is located at: Cuyahoga Falls, OH
+
+Printing the Concert Details: 231
+=============================================================
+The concert date and time is: 06/19/2020
+The venue for this concert is: KeyBank Pavilion
+The venue is located at: Burgettstown, PA
+
+Printing the Concert Details: 241
+=============================================================
+The concert date and time is: 06/24/2020
+The venue for this concert is: Fenway Park
+The venue is located at: Boston, MA
+
+Printing the Concert Details: 251
+=============================================================
+The concert date and time is: 06/25/2020
+The venue for this concert is: Citi Field
+The venue is located at: Flushing, NY
+
+Printing the Concert Details: 261
+=============================================================
+The concert date and time is: 06/27/2020
+The venue for this concert is: Darien Lake Amphitheater 
+The venue is located at: Darien Center, NY
+
+Printing the Concert Details: 271
+=============================================================
+The concert date and time is: 06/28/2020
+The venue for this concert is: Budweiser Stage
+The venue is located at: Toronto, 
+
+Printing the Concert Details: 281
+=============================================================
+The concert date and time is: 08/02/2020
+The venue for this concert is: Simmons Bank Arena
+The venue is located at: North Little Rock, AR
+
+Printing the Concert Details: 291
+=============================================================
+The concert date and time is: 08/04/2020
+The venue for this concert is: Chesapeake Energy Arena
+The venue is located at: Oklahoma City, OK
+
+Printing the Concert Details: 301
+=============================================================
+The concert date and time is: 08/06/2020
+The venue for this concert is: Pinnacle Bank Arena
+The venue is located at: Lincoln, NE
+
+Printing the Concert Details: 311
+=============================================================
+The concert date and time is: 08/08/2020
+The venue for this concert is: Fargodome
+The venue is located at: Fargo, ND
+
+Printing the Concert Details: 321
+=============================================================
+The concert date and time is: 08/09/2020
+The venue for this concert is: Xcel Energy Center
+The venue is located at: St Paul, MN
+
+Printing the Concert Details: 331
+=============================================================
+The concert date and time is: 08/12/2020
+The venue for this concert is: Rogers Place
+The venue is located at: Edmonton, 
+
+Printing the Concert Details: 341
+=============================================================
+The concert date and time is: 08/14/2020
+The venue for this concert is: Pepsi Live at Rogers Arena 
+The venue is located at: Vancouver, 
+
+Printing the Concert Details: 351
+=============================================================
+The concert date and time is: 08/15/2020
+The venue for this concert is: White River Amphitheatre
+The venue is located at: Auburn, WA
+
+Printing the Concert Details: 361
+=============================================================
+The concert date and time is: 08/17/2020
+The venue for this concert is: Rose Quarter (Consists of the Moda Center and Veterans Memorial Coliseum)
+The venue is located at: Portland, OR
+
+Printing the Concert Details: 371
+=============================================================
+The concert date and time is: 08/19/2020
+The venue for this concert is: Shoreline Amphitheatre and Grounds 
+The venue is located at: Mountain View, CA
+
+Printing the Concert Details: 381
+=============================================================
+The concert date and time is: 08/21/2020
+The venue for this concert is: Los Angeles Football Club/Banc of California Stadium 
+The venue is located at: Los Angeles, CA
+
+Printing the Concert Details: 391
+=============================================================
+The concert date and time is: 08/24/2020
+The venue for this concert is: USANA Amphitheatre 
+The venue is located at: Salt Lake City, UT
+
+Printing the Concert Details: 401
+=============================================================
+The concert date and time is: 08/27/2020
+The venue for this concert is: Sprint Center
+The venue is located at: Kansas City, KS
+
+Printing the Concert Details: 411
+=============================================================
+The concert date and time is: 08/29/2020
+The venue for this concert is: Hollywood Casino Amphitheatre - St. Louis
+The venue is located at: Maryland Heights, MO
+
+Printing the Concert Details: 421
+=============================================================
+The concert date and time is: 08/30/2020
+The venue for this concert is: American Family Insurance Amphitheater
+The venue is located at: Milwaukee, WI
+
+Printing the Concert Details: 431
+=============================================================
+The concert date and time is: 09/01/2020
+The venue for this concert is: Riverbend Music Center
+The venue is located at: Cincinnati, OH
+
+Printing the Concert Details: 441
+=============================================================
+The concert date and time is: 09/03/2020
+The venue for this concert is: BB&T Pavilion
+The venue is located at: Camden, NJ
+
+Printing the Concert Details: 451
+=============================================================
+The concert date and time is: 09/05/2020
+The venue for this concert is: Hershey Park Pavilion/Stadium 
+The venue is located at: Hershey, PA
+
+Printing the Concert Details: 461
+=============================================================
+The concert date and time is: 09/06/2020
+The venue for this concert is: Saratoga Performing Arts Center
+The venue is located at: Saratoga Springs, NY
+
+Printing the Concert Details: 471
+=============================================================
+The concert date and time is: 09/09/2020
+The venue for this concert is: Xfinity Theatre
+The venue is located at: Hartford, CT
+
+Printing the Concert Details: 481
+=============================================================
+The concert date and time is: 09/11/2020
+The venue for this concert is: Jiffy Lube Live
+The venue is located at: Bristow, VA
+
+Printing the Concert Details: 491
+=============================================================
+The concert date and time is: 09/12/2020
+The venue for this concert is: Coastal Credit Union Music Park @ Walnut Creek Amphitheatre
+The venue is located at: Raleigh, NC
+
+Printing the Concert Details: 501
+=============================================================
+The concert date and time is: 09/14/2020
+The venue for this concert is: PNC Music Pavilion
+The venue is located at: Charlotte, NC
+
+Printing the Concert Details: 511
+=============================================================
+The concert date and time is: 09/16/2020
+The venue for this concert is: Coral Sky Amphitheatre
+The venue is located at: West Palm Beach, FL
+
+Printing the Concert Details: 521
+=============================================================
+The concert date and time is: 09/17/2020
+The venue for this concert is: MIDFLORIDA Credit Union Amphitheatre
+The venue is located at: Tampa, FL
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this,Angel,has,fallen
+
+Printing the Movie Details
+=============================================================
+The Movie name is: Angel Has Fallen
+This movie was released on: 23 Aug 2019
+IMDB rating of this moview is: 6.4
+Rotten Tomatoes Ratings:39%
+This movie was produced in: USA
+This language of the movie is: English
+This plot of the movie is: 
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,concert-this,jennifer,lopez
+
+Printing the Concert Details: 01
+=============================================================
+The concert date and time is: 02/22/2020
+The venue for this concert is: Chase Center
+The venue is located at: San Francisco, CA
+
+Printing the Concert Details: 11
+=============================================================
+The concert date and time is: 02/29/2020
+The venue for this concert is: The Forum
+The venue is located at: Los Angeles, CA
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spotify-this-song,Happier
+
+Printing the song Details
+=============================================================
+
+The album name is: Happier
+The album was released on: 2018-08-17
+The album was released on: 2018-08-17
+The artists are: Marshmello  Bastille  
+The name of the song is: Happier
+This song can be played using the link: https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spotify-this-song,The,best,day,ever
+
+Printing the song Details
+=============================================================
+
+The album name is: The SpongeBob SquarePants Movie-Music From The Movie and More
+The album was released on: 2004-11-09
+The album was released on: 2004-11-09
+The artists are: Spongebob Squarepants  
+The name of the song is: The Best Day Ever
+This song can be played using the link: https://open.spotify.com/track/3L3dVggx061Wx5y4d2L0mQ
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,spotify-this-song,The,best,day,ever
+
+Printing the song Details
+=============================================================
+
+The album name is: The SpongeBob SquarePants Movie-Music From The Movie and More
+The album was released on: 2004-11-09
+The album was released on: 2004-11-09
+The artists are: Spongebob Squarepants  
+The name of the song is: The Best Day Ever
+This song can be played using the link: https://open.spotify.com/track/3L3dVggx061Wx5y4d2L0mQ
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this,The,lion,king
+
+Printing the Movie Details
+=============================================================
+The Movie name is: The Lion King
+This movie was released on: 24 Jun 1994
+IMDB rating of this moview is: 8.5
+Rotten Tomatoes Ratings:93%
+This movie was produced in: USA
+This language of the movie is: English, Swahili, Xhosa, Zulu
+This plot of the movie is: 
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,movie-this,toy,story,4
+
+Printing the Movie Details
+=============================================================
+The Movie name is: Toy Story 4
+This movie was released on: 21 Jun 2019
+IMDB rating of this moview is: 7.9
+Rotten Tomatoes Ratings:97%
+This movie was produced in: USA
+This language of the movie is: English
+This plot of the movie is: 
+C:\Users\spopuri\Desktop\Bootcamp\SP-LIRI\liri.js,do-what-it-says
+
+Printing the song Details
+=============================================================
+
+The album name is: The Hits--Chapter One
+The album was released on: 2001-10-23
+The album was released on: 2001-10-23
+The artists are: Backstreet Boys  
+The name of the song is: I Want It That Way
+This song can be played using the link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6

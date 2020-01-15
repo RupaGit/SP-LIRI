@@ -166,10 +166,10 @@ function constructQueryVal() {
         queryVal = userChoice;
     }
     else {
-        queryVal = userChoice[0];
-        for (var i = 1; i < userChoice.length; i++) {
-            queryVal = queryVal + '+' + userChoice[i];
-        }
+        queryVal = userChoice.join('+');
+        // for (var i = 1; i < userChoice.length; i++) {
+        //     queryVal = queryVal + '+' + userChoice[i];
+        // }
     }
     console.log(queryVal);
 }
